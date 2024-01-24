@@ -1,0 +1,256 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloworldApplication",
+            "request": "launch",
+            "mainClass": "com.practicespring.helloworld.HelloworldApplication",
+            "projectName": "helloworld"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MovieComparatorMain",
+            "request": "launch",
+            "mainClass": "MS1_Day5.MovieComparatorMain",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ComparableMain",
+            "request": "launch",
+            "mainClass": "MS1_Day5.ComparableMain",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashMap_test1",
+            "request": "launch",
+            "mainClass": "MS1_Day5.HashMap_test1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CollectionSort",
+            "request": "launch",
+            "mainClass": "MS1_Day5.CollectionSort",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashSet1",
+            "request": "launch",
+            "mainClass": "MS1_Day5.HashSet1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Custom_Exceptions",
+            "request": "launch",
+            "mainClass": "MS1_Day4.Custom_Exceptions",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Try_Catch",
+            "request": "launch",
+            "mainClass": "MS1_Day4.Try_Catch",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Exception1",
+            "request": "launch",
+            "mainClass": "MS1_Day4.Exception1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList_object",
+            "request": "launch",
+            "mainClass": "MS1_Day4.LinkedList_object",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList1",
+            "request": "launch",
+            "mainClass": "MS1_Day4.LinkedList1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList1",
+            "request": "launch",
+            "mainClass": "MS1_Day4.ArrayList1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Interface_1",
+            "request": "launch",
+            "mainClass": "MS1_Day3.Interface_1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Abstract_1",
+            "request": "launch",
+            "mainClass": "MS1_Day3.Abstract_1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "B1",
+            "request": "launch",
+            "mainClass": "MS1_Day3.B1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Overriding_1",
+            "request": "launch",
+            "mainClass": "MS1_Day3.Overriding_1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MultiLevelInheritance",
+            "request": "launch",
+            "mainClass": "MS1_Day3.MultiLevelInheritance",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance2",
+            "request": "launch",
+            "mainClass": "MS1_Day3.Inheritance2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance1",
+            "request": "launch",
+            "mainClass": "MS1_Day3.Inheritance1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Overloading2",
+            "request": "launch",
+            "mainClass": "MS1_Day3.Overloading2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TestOverloading1",
+            "request": "launch",
+            "mainClass": "MS1_Day3.TestOverloading1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Array_Copy",
+            "request": "launch",
+            "mainClass": "MS1_Day3.Array_Copy",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main4StaticIllustrator",
+            "request": "launch",
+            "mainClass": "MS1_Day2.Oops1.Main4StaticIllustrator",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "MS1_Day2.Oops1.Main2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Constructor1",
+            "request": "launch",
+            "mainClass": "MS1_Day2.Oops1.Constructor1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation1",
+            "request": "launch",
+            "mainClass": "MS1_Day2.Oops1.Encapsulation1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MS1_Day2.Oops1.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Array_2d",
+            "request": "launch",
+            "mainClass": "MS1_Day2.Array_2d",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "MS1_Day2.Array1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Practice1",
+            "request": "launch",
+            "mainClass": "Practice1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        }
+    ]
+}
