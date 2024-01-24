@@ -1,10 +1,10 @@
-package com.ltim.project2.spring2;
+package com.ltim.userspring.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Spring2ApplicationTests {
+class UserApplicationTests {
 
 	@Test
 	void contextLoads() {

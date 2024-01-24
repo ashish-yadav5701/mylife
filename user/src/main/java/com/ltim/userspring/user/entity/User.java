@@ -1,4 +1,6 @@
-package com.ltim.project2.spring2.entity;
+package com.ltim.userspring.user.entity;
+
+
 import java.util.Date;
 public class User {
     private Integer id;
@@ -42,3 +44,4 @@ public class User {
     }
     
 }
+

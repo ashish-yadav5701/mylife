@@ -1,13 +1,13 @@
-package com.ltim.project2.spring2;
+package com.ltim.userspring.user;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Spring2Application {
+public class UserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Spring2Application.class, args);
+		SpringApplication.run(UserApplication.class, args);
 	}
 
 }

@@ -3,10 +3,25 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpringUserApplication",
+            "request": "launch",
+            "mainClass": "com.ltim.project2.spring2.SpringUserApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring2Application",
+            "request": "launch",
+            "mainClass": "com.ltim.project2.spring2.Spring2Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "HelloworldApplication",
             "request": "launch",
             "mainClass": "com.practicespring.helloworld.HelloworldApplication",
-            "projectName": "helloworld"
+            "projectName": "helloworld",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=37757 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=helloworld"
         },
         {
             "type": "java",
