@@ -3,6 +3,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Day17jpqlApplication",
+            "request": "launch",
+            "mainClass": "com.lti.day17jpql.Day17jpqlApplication",
+            "projectName": "day17jpql"
+        },
+        {
+            "type": "java",
+            "name": "JpaManyToOneApplication",
+            "request": "launch",
+            "mainClass": "com.lti.jpa_many_to_one.JpaManyToOneApplication",
+            "projectName": "jpa_many_to_one"
+        },
+        {
+            "type": "java",
+            "name": "Jpa2Application",
+            "request": "launch",
+            "mainClass": "com.ltim.jpa2.Jpa2Application",
+            "projectName": "jpa2"
+        },
+        {
+            "type": "java",
+            "name": "Day11Application",
+            "request": "launch",
+            "mainClass": "com.ltim.day11.Day11Application",
+            "projectName": "day11"
+        },
+        {
+            "type": "java",
+            "name": "Jpa1Application",
+            "request": "launch",
+            "mainClass": "com.ltim.springdata.jpa1.Jpa1Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Day10session2Application",
+            "request": "launch",
+            "mainClass": "com.ltim.selfpract.day10session2.Day10session2Application",
+            "projectName": "day10session2"
+        },
+        {
+            "type": "java",
+            "name": "Day10session1Application",
+            "request": "launch",
+            "mainClass": "com.selfpractice.day10session1.Day10session1Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ProductApplication",
+            "request": "launch",
+            "mainClass": "com.ltim.weekasses.product.ProductApplication",
+            "projectName": "product"
+        },
+        {
+            "type": "java",
             "name": "SpringUserApplication",
             "request": "launch",
             "mainClass": "com.ltim.project2.spring2.SpringUserApplication",
@@ -266,6 +322,16 @@
             ],
             "postDebugTask": "Submit App",
             "type": "pwa-node"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Jpa1Application<jpa1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ltim.springdata.jpa1.Jpa1Application",
+            "projectName": "jpa1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
